@@ -1,0 +1,10 @@
+{
+    "name": "he",
+    "description": "A robust HTML entities encoder/decoder with full Unicode support.",
+    "repos": "https://github.com/mathiasbynens/he.git",
+    "main": "he.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "0.5.0"
+}
